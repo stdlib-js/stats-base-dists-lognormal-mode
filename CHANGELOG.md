@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-18)
+## Unreleased (2025-05-06)
+
+<section class="features">
+
+### Features
+
+-   [`61209d2`](https://github.com/stdlib-js/stdlib/commit/61209d2c59f42dbb393631d682442b7034f8b8af) - add C implementation for `stats/base/dists/lognormal/mode` [(#4148)](https://github.com/stdlib-js/stdlib/pull/4148)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4979](https://github.com/stdlib-js/stdlib/issues/4979)
+[#3754](https://github.com/stdlib-js/stdlib/issues/3754), [#4979](https://github.com/stdlib-js/stdlib/issues/4979)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`61209d2`](https://github.com/stdlib-js/stdlib/commit/61209d2c59f42dbb393631d682442b7034f8b8af) - **feat:** add C implementation for `stats/base/dists/lognormal/mode` [(#4148)](https://github.com/stdlib-js/stdlib/pull/4148) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`ae08a29`](https://github.com/stdlib-js/stdlib/commit/ae08a29eb928357ae97532f0c3f398b0fef58ebd) - **bench:** refactor random number generation in `stats/base/dists/lognormal` [(#5164)](https://github.com/stdlib-js/stdlib/pull/5164) _(by Saurabh Singh)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
@@ -37,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Manvith M
 -   Philipp Burckhardt
 -   Saurabh Singh
 
