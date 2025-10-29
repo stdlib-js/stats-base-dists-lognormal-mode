@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-10-29)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`3b39228`](https://github.com/stdlib-js/stdlib/commit/3b39228e76a9586ede35c2c128939f21c6982d09) - **docs:** replace manual `for` loop in examples [(#8263)](https://github.com/stdlib-js/stdlib/pull/8263) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`eb555e4`](https://github.com/stdlib-js/stdlib/commit/eb555e4097f20ab99054945e55b44a9f795f0cf7) - **chore:** clean-up _(by Athan Reines)_
 -   [`61209d2`](https://github.com/stdlib-js/stdlib/commit/61209d2c59f42dbb393631d682442b7034f8b8af) - **feat:** add C implementation for `stats/base/dists/lognormal/mode` [(#4148)](https://github.com/stdlib-js/stdlib/pull/4148) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
@@ -50,9 +53,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh Yadav
 -   Manvith M
 -   Philipp Burckhardt
 -   Saurabh Singh
