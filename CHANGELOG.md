@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`797d3a0`](https://github.com/stdlib-js/stdlib/commit/797d3a0bbe3f062d53e7ff8b7919e54a0e6c0d00) - **bench:** refactor to use string interpolation in `stats/base/dists/lognormal` [(#10445)](https://github.com/stdlib-js/stdlib/pull/10445) _(by Vishal Gaikwad)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Vishal Gaikwad
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
